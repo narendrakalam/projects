@@ -1,4 +1,5 @@
 spoken is librabry
+
 imported  TextTranslator function from spoken into spokes2written and tested
 
 
